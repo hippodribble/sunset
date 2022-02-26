@@ -4,7 +4,7 @@ Just a Golang version of a workflow to generate sunrise and sunset times at a sp
 
 package is sunset, but function is sunrise :-)
 
-#### Usage
+### Usage
 
 sunset.Sunrise(latitude, longitude, day, month, year, zenith, localOffset, sunrise)
 
