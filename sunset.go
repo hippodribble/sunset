@@ -1,4 +1,4 @@
-package sunset
+package sunrise
 
 import (
 	// "fmt"
